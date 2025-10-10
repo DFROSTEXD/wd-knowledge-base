@@ -3,7 +3,7 @@ title: "CSS Grid DevTools: Debugging Grid Layouts"
 date: 2025-10-10
 category: css-layout
 difficulty: intermediate
-source: 
+source: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout
 author: William Harvey
 ---
 
