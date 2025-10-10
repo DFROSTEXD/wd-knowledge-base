@@ -9,15 +9,8 @@ author: William Harvey
 
 # CSS aspect-ratio: Maintaining Proportions Without Hacks
 
-
-
-
 ## Example
 
-
-
 ## When to use
-
-
 
 **Source**:
