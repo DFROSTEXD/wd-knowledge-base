@@ -9,7 +9,7 @@ author: William Harvey
 
 # CSS Grid DevTools: Debugging Grid Layouts
 
-When you want to debug a grid, it usually involves looking at how your elements are placed within the grid. The first thing you want to do is to make sure that the you have the proper elements like display: grid (this is very important to have). Now look at your grid-template-columns and grid template-rows to make sure that the number of tracks matches the number of items you want to be displayed. That's just one example of debugging grid layouts. 
+When you want to debug a grid, it usually involves looking at how your elements are placed within the grid. The first thing you want to do is to make sure that the you have the proper elements like display: grid (this is very important to have). Now look at your grid-template-columns and grid template-rows to make sure that the number of tracks matches the number of items you want to be displayed. That's just one example of debugging grid layouts.
 
 ## Example
 
@@ -58,6 +58,7 @@ When you want to debug a grid, it usually involves looking at how your elements 
     "footer footer footer";
 }
 ```
+
 ## When to use
 
 -When you want to build a new grid layout and items aren't positioned correctly
